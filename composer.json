@@ -1,5 +1,5 @@
 {
-    "name": "bummzack/omnipay-postfinance",
+    "name": "fdt2k/omnipay-postfinance",
     "type": "library",
     "description": "Postfinance Gateway for the Omnipay payment processing library",
     "keywords": [
@@ -24,7 +24,7 @@
     "require": {
         "omnipay/common": "^3.0",
         "league/omnipay": "^3",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^7"
     },
     "require-dev": {
         "omnipay/tests": "^3.0"
